@@ -1,11 +1,11 @@
-# Raspberry PI Matrix Node.js Canvas
+# Raspberry Pi Matrix Node.js Canvas
 
-Due to limitations of `node-rpi-rgb-led-matrix`, the project will only work with node v0.10.x
-
-Make sure led matrix is attached to raspberry pi.
+Simple project that runs on a raspberry pi with an led matrix attached to it, that provides a web interface for drawing on the led matrix in real time.
 
 
 ## Setup
+
+Due to limitations of `node-rpi-rgb-led-matrix`, the project will only work with node v0.10.x
 
 `npm install`
 
@@ -20,7 +20,7 @@ Open in browser on port 3000.
 
 You should be able to draw on the led matrix from web now.
 
-Mobile support is spotty, only supports repeated taps.
+Mobile support is spotty, only supports repeated taps. I'll take any pointers/pull requests on improving the functionality.
 
 
 ##Demo
