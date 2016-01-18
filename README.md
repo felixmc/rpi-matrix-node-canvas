@@ -1,4 +1,4 @@
-# Raspberry Pi Matrix Node.js Canvas
+# Raspberry Pi LED Matrix Canvas
 
 Simple project that runs on a raspberry pi with an led matrix attached to it, that provides a web interface for drawing on the led matrix in real time.
 
