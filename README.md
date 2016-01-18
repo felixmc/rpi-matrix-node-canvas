@@ -20,8 +20,11 @@ Open in browser on port 3000.
 
 You should be able to draw on the led matrix from web now.
 
+Because I'm lazy, color picker only works in browsers that support `<input type="color">`.
+
 Mobile support is spotty, only supports repeated taps. I'll take any pointers/pull requests on improving the functionality.
 
+Despite the name, it doesn't actually use html5 canvas.
 
 ##Demo
 
