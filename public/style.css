@@ -1,0 +1,12 @@
+.canvas {
+  width: 320px;
+  height: 320px;
+}
+
+.block {
+  width: 10px;
+  height: 10px;
+  background: #000;
+  float: left;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.4);
+}
