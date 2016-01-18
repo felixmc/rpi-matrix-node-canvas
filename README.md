@@ -25,4 +25,4 @@ Mobile support is spotty, only supports repeated taps.
 
 ##Demo
 
-![demo](docs/snap.png?raw=true "Demo")
+![demo](docs/snap.jpg?raw=true "Demo")
