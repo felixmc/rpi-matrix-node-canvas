@@ -2,6 +2,10 @@
 
 Simple project that runs on a raspberry pi with an led matrix attached to it, that provides a web interface for drawing on the led matrix in real time.
 
+##Demo
+
+![demo](docs/snap.jpg?raw=true "Demo")
+
 
 ## Setup
 
@@ -25,7 +29,3 @@ Because I'm lazy, color picker only works in browsers that support `<input type=
 Mobile support is spotty, only supports repeated taps. I'll take any pointers/pull requests on improving the functionality.
 
 Despite the name, it doesn't actually use html5 canvas.
-
-##Demo
-
-![demo](docs/snap.jpg?raw=true "Demo")
